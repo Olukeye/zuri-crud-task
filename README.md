@@ -11,7 +11,7 @@ crud app with express and mongodb
 * You can either work with the default mLab database or use your locally installed MongoDB. Do configure to your choice in the application entry file.
 * Create an .env file in your project root folder and add your variables. See .env.sample for assistance.
 ## Usage
-* Run npm start:dev to start the application.
+* Run npm nodemon on the terminal to start the application.
 * Connect to the API using Postman on port 2021.
 ### API Endpoints
 | HTTP Verbs | Endpoints | Action |
