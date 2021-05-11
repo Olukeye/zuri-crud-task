@@ -25,4 +25,4 @@ crud app with express and mongodb
 * [ExpressJS](https://www.expresjs.org/) This is a NodeJS web application framework.
 * [MongoDB](https://www.mongodb.com/) This is a free open source NOSQL document database with scalability and flexibility. Data are stored in flexible JSON-like documents.
 #####
-The hosted project can gotten on (http://zuri-crud-training.herokuapp.com/)
+The project is hosted on (http://zuri-crud-training.herokuapp.com/)
