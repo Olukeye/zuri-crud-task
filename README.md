@@ -18,7 +18,7 @@ crud app with express and mongodb
 | --- | --- | --- |
 | POST |('/data')| To create a new user |
 | GET | ('/data/:Id') | To retrieve details of a single user|
-| PATCH | ('/data/:Id') | To edit the details of a single user |
+| PUT| ('/data/:Id') | To edit the details of a single user |
 | DELETE |('/data/:Id') | To delete a single user |
 ### Technologies Used
 * [NodeJS](https://nodejs.org/) This is a cross-platform runtime environment built on Chrome's V8 JavaScript engine used in running JavaScript codes on the server. It allows for installation and managing of dependencies and communication with databases.
